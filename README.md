@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Media Nest**
 
-- 🌱 I’m currently learning **Java and working with Databases**
+- 🌱 I’m currently working on **MERN stack and AWS**
 
-- 👯 I’m looking to collaborate on **Java and Cloud Computing**
+- 👯 I’m looking to collaborate in **Full Stack and Cloud Computing domain**
 
 - 📫 How to reach me **dhruvsharmav999@gmail.com**
 
