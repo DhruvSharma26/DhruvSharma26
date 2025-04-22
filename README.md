@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
-<h3 align="center">CFull-stack developer crafting scalable solutions with MERN and cloud technologies.</h3>
+<h3 align="center">Full-stack developer crafting scalable solutions with MERN and cloud technologies.</h3>
 
 - 🔭 I’m currently working on **Media Nest**
 
