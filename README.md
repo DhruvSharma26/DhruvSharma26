@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
-<h3 align="center">Full-stack developer crafting scalable solutions with MERN and cloud technologies.</h3>
+<h1 align="center">Hi 👋, I'm Dhruv</h1>
+<h3 align="center">Web developer crafting scalable solutions with MERN and cloud technologies.</h3>
 
 - 🔭 I’m currently working on **Media Nest**
 
-- 🌱 I’m currently learning **Next JS and Databases**
+- 🌱 I’m currently learning **Java and working with Databases**
 
 - 👯 I’m looking to collaborate on **Java and Cloud Computing**
-
-- 💬 Ask me about **Javascript and React**
 
 - 📫 How to reach me **dhruvsharmav999@gmail.com**
 
