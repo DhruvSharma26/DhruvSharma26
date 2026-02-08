@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">Web developer crafting scalable solutions with MERN and cloud technologies.</h3>
 
-- 🔭 I’m currently working on **Media Nest**
 
-- 🌱 I’m currently working on **MERN stack and AWS**
+- 🌱 I’m currently working on **React and AWS**
 
-- 👯 I’m looking to collaborate in **Full Stack and Cloud Computing domain**
+- 👯 I’m looking to collaborate on innovative projects and enhance my technical skills.
 
 - 📫 How to reach me **dhruvsharmav999@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sYBxlbLmCSExg0td4WtEkUmciiw0p6x9/view?usp=sharing](https://drive.google.com/file/d/1sYBxlbLmCSExg0td4WtEkUmciiw0p6x9/view?usp=sharing)
 
-- ⚡ Fun fact **I think i have a good humour**
+- ⚡ Fun fact **I have a good sense of humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
